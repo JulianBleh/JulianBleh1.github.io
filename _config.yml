@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Julian Bleh"
+  pronouns         : "he/him"  
+  bio              : "Social psychologist"
+  location         : "Leipzig, Germany"
+  employer         : "Leipzig University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "julian.bleh@uni-leipzig.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
