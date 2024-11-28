@@ -9,10 +9,10 @@ main:
     url: /publications/
 
   - title: "Media"
-    url: /outreach/    
+    url: /media/    
 
   - title: "Workshops & Teaching"
-    url: /teaching/    
+    url: /workshops_&_teaching/    
     
   - title: "CV"
     url: /cv/
