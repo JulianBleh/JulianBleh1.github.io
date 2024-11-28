@@ -6,22 +6,13 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications/  
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Media"
+    url: /media/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Workshops & Teaching"
+    url: /workshops_teaching/    
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
