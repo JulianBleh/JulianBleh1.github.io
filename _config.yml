@@ -28,7 +28,8 @@ author:
   location         : "Leipzig, Germany"
   employer         : "Leipzig University"
   uri              : #URL
-  email            : "julian.bleh@uni-leipzig.de" 
+  email            : "julian.bleh@uni-leipzig.de"
+  CV               : "https://julianbleh.github.io/markdown-cv/"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
