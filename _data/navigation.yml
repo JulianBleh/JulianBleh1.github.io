@@ -11,8 +11,5 @@ main:
   - title: "Media"
     url: /media/
     
-  - title: "Workshops & Teaching"
-    url: /workshops_teaching/    
-    
   - title: "CV"
     url: /cv/
