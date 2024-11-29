@@ -21,4 +21,3 @@ Lichti, M., Schulz, V., Dammann, A., & Bleh, J. (2024). ***Abschlussbericht – 
 Bleh, J. (2022). ***Evaluation der Beteiligungsverfahren zur Überarbeitung der städtischen Leitbilder in Tengen und Brandis (Bürgerräte) 2022***. [[Full-text available]](https://www.researchgate.net/publication/386250845_Evaluation_der_Beteiligungsverfahren_zur_Uberarbeitung_der_stadtischen_Leitbilder_in_Tengen_und_Brandis_Burgerrate_2022){:target="_blank"}
 
 Bleh, J. (2021). ***Evaluation Pilot Wahlkreisrat – Ergebnisse der Befragungen zu den Pilotveranstaltungen im Juni 2021 (Bürgerräte) 2021***. [[Full-text available]](https://www.researchgate.net/publication/386250840_Evaluation_Pilot_Wahlkreisrat_Burgerrate_2021){:target="_blank"}
-![image](https://github.com/user-attachments/assets/80a20d76-b6cf-4d1f-bc7b-8cc81b2dbc56)
