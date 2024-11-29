@@ -59,7 +59,7 @@ German Federal Environmental Foundation (DBU)
 ## Publications
 
 Bleh, J., Masson, T., Köhler, S., & Fritsche, I. (2024). **From imagination to activism: Cognitive alternatives motivate commitment to activism through identification with social movements and collective efficacy.** *British Journal of Social Psychology, 64*(1), e12811. https://doi.org/10.1111/bjso.12811
-[[full-text at ResearchGate]](https://www.researchgate.net/publication/385877996_From_imagination_to_activism_Cognitive_alternatives_motivate_commitment_to_activism_through_identification_with_social_movements_and_collective_efficacy) {:target="_blank"}
+[[full-text at ResearchGate]](https://www.researchgate.net/publication/385877996_From_imagination_to_activism_Cognitive_alternatives_motivate_commitment_to_activism_through_identification_with_social_movements_and_collective_efficacy){:target="_blank"} 
 
 
 
