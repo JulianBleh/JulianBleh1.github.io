@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Profile
+======
+My research concerns our ability to imagine social change and how envisioning an alternative to the status quo relates to collective action. More specifically, what enables us to imagine a more sustainable, just, democratic and solidaric society? Under which conditions do societal visions, like utopias, motivate us to act upon socio-ecological change, and what role do social identity processes play in this? Further, I'm interested in the social psychological effects of social movements, and I evaluate projects dealing with political participation, transformative education, as well as climate communications.
 
 A data-driven personal website
 ======
