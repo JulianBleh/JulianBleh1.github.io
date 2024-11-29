@@ -58,7 +58,8 @@ German Federal Environmental Foundation (DBU)
 
 ## Publications
 
-Bleh, J., Masson, T., Köhler, S., & Fritsche, I. (2024). [**From imagination to activism: Cognitive alternatives motivate commitment to activism through identification with social movements and collective efficacy.**]( https://www.researchgate.net/publication/385877996_From_imagination_to_activism_Cognitive_alternatives_motivate_commitment_to_activism_through_identification_with_social_movements_and_collective_efficacy){:target="_blank"} *British Journal of Social Psychology, 64*(1), e12811. https://doi.org/10.1111/bjso.12811
+Bleh, J., Masson, T., Köhler, S., & Fritsche, I. (2024). **From imagination to activism: Cognitive alternatives motivate commitment to activism through identification with social movements and collective efficacy.** *British Journal of Social Psychology, 64*(1), e12811. https://doi.org/10.1111/bjso.12811
+[Link](https://www.researchgate.net/publication/385877996_From_imagination_to_activism_Cognitive_alternatives_motivate_commitment_to_activism_through_identification_with_social_movements_and_collective_efficacy){:target="_blank"}
 
 Hamann, K. R. S., Wenzel, K., Dasch, S., Junge, E., von Agris, A.-S., & Bleh, J. (2024). [**How Can Psychological Research Support Movements for Socio-Ecological Change? A Qualitative Study on Psychological Challenges and Questions of Activists.**]( https://www.researchgate.net/publication/378972004_How_Can_Psychological_Research_Support_Movements_for_Socio-Ecological_Change_A_Qualitative_Study_on_Psychological_Challenges_and_Questions_of_Activists){:target="_blank"} *Global Environmental Psychology*. https://www.psycharchives.org/en/item/2723d856-0b7b-459c-a79f-f51c7ea529e0
 
