@@ -37,9 +37,8 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.cv %}
-        <li><a href="{{ author.cv }}"><i class="fa-fw fa-file-alt icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].file_label | default: "Curriculum Vitae" }}</a></li>
+        <li><a href="{{ author.cv }}"><i class="fa-solid fa-file" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].file_label | default: "Curriculum Vitae" }}</a></li>
       {% endif %}  
-      
 
 
 
