@@ -14,7 +14,5 @@ Bleh, J. (2023, März 3). *Wo steht die Klimabewegung? Interview mit MDR Kultur*
 ### Interview zur Wirkung der Klimabewegung in der Psychologie Heute
 Bleh, J. (2023, Februar). *Im Fokus: Die Klimabewegung* (B. von Brackel) [Psychologie Heute]. [[Link zum Artikel]](https://www.psychologie-heute.de/gesellschaft/artikel-detailansicht/42443-im-fokus-die-klimabewegung.html){:target="_blank"} 
 
-### Interview zur psychologischen Wirkung vom Bürgerräten
+### Interview zur psychologischen Wirkung von Bürgerräten
 Prasuhn, H. (2022). *Du und ich können die Politik von morgen bestimmen*. Es geht LOS! [[Link zum Artikel]](https://esgehtlos.org/beteiligung-brandis-tengen/brandis-und-tengen-gehen-los/du-und-ich-konnen-die-politik-von-morgen-bestimmen){:target="_blank"}
-
-
