@@ -1,1 +1,31 @@
+name: Sync Publications
 
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Publications
+        run: |
+          curl -o _includes/publications.md https://raw.githubusercontent.com/JulianBleh/markdown-cv/master/_pages/publications.md
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add _includes/publications.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Sync publications"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
