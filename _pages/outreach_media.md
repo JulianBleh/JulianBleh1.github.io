@@ -17,5 +17,3 @@ Bleh, J. (2023). Im Fokus: Die Klimabewegung (B. von Brackel) [Psychologie Heute
 
 ### Interview zur psychologischen Wirkung vom Bürgerräten
 Prasuhn, H. (2022). Du und ich können die Politik von morgen bestimmen. Es geht LOS! https://esgehtlos.org/beteiligung-brandis-tengen/brandis-und-tengen-gehen-los/du-und-ich-konnen-die-politik-von-morgen-bestimmen
-
-![image](https://github.com/user-attachments/assets/56b875dc-ea6a-41d4-9fb3-81b78763a107)
