@@ -18,8 +18,6 @@ Hamann, K., Blumenschein, P., Junge, E., Dasch, S., Wernke, A., & Bleh, J. (2024
 ### What do we want!? Identität, Moral und Wirksamkeit – Eine sozialpsychologische Perspektive auf die Erfolgsfaktoren der jungen Klimabewegung.
 Bleh, J. (2021). What do we want!? Identität, Moral und Wirksamkeit – Eine sozialpsychologische Perspektive auf die Erfolgsfaktoren der jungen Klimabewegung. In L. Dohm, F. Peter, & K. van Bronswijk (Hrsg.), *Climate Action—Psychologie der Klimakrise* (S. 251–282). Psychosozial-Verlag. https://doi.org/10.30820/9783837978018-251 [[Full-text available]](https://www.researchgate.net/publication/353947962_What_do_we_want_Identitat_Moral_und_Wirksamkeit_-_Eine_sozialpsychologische_Perspektive_auf_die_Erfolgsfaktoren_der_jungen_Klimabewegung){:target="_blank"}
 
-### Evaluation der Wirksamkeit eines Dialogmarketings zur Steigerung des Umweltverbundanteils am Modal Split von RentnerInnen
-Scheffler, D., Bleh, J. & Wagner, F. (2016). Evaluation der Wirksamkeit eines Dialogmarketings zur Steigerung des Umweltverbundanteils am Modal Split von RentnerInnen. *Umweltpsychologie, 38,* 85-104.
 
 
 ### Project reports (selection)
@@ -31,3 +29,5 @@ Lichti, M., Schulz, V., Dammann, A., & Bleh, J. (2024). *Abschlussbericht – Ev
 Bleh, J. (2022). *Evaluation der Beteiligungsverfahren zur Überarbeitung der städtischen Leitbilder in Tengen und Brandis (Bürgerräte) 2022*. [[Full-text available]](https://www.researchgate.net/publication/386250845_Evaluation_der_Beteiligungsverfahren_zur_Uberarbeitung_der_stadtischen_Leitbilder_in_Tengen_und_Brandis_Burgerrate_2022){:target="_blank"}
 
 Bleh, J. (2021). *Evaluation Pilot Wahlkreisrat – Ergebnisse der Befragungen zu den Pilotveranstaltungen im Juni 2021 (Bürgerräte) 2021*. [[Full-text available]](https://www.researchgate.net/publication/386250840_Evaluation_Pilot_Wahlkreisrat_Burgerrate_2021){:target="_blank"}
+
+Scheffler, D., Bleh, J. & Wagner, F. (2016). Evaluation der Wirksamkeit eines Dialogmarketings zur Steigerung des Umweltverbundanteils am Modal Split von RentnerInnen. *Umweltpsychologie, 38,* 85-104.
